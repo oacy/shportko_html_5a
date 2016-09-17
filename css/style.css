@@ -8,6 +8,9 @@
 body {
     background: url("../img/background.jpg") no-repeat center top;
 }
+
+input{font-family: HelveticaNeuecyr}
+
 .ramka{
     width: 560px;
     position: absolute;
@@ -100,4 +103,4 @@ body {
     background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #019ad2), color-stop(1, #33bdef));
 }
 
-input{font-family: HelveticaNeuecyr}
+

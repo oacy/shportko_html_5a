@@ -85,6 +85,7 @@ input{font-family: HelveticaNeuecyr}
     border-style: solid;
     background-color: #1B5288;
     box-shadow: #689BCC 0px 1px 30px;
+    color: white;
 }
 
 .CreateAccount {
